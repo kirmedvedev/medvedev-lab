@@ -18,6 +18,6 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/kirill-medvedev.jpg" %}
+{% include figure.html image="images/Kirill_Medvedev.jpg" %}
 
 {% endcapture %}
