@@ -1,13 +1,8 @@
 - id: doi:10.1093/nar/gkae1029
-  date: 20 November 2024
   image: https://academic.oup.com/view-large/figure/499326783/gkae1029figgra1.jpg
   buttons:
     - type: website
       link: http://prodata.swmed.edu/ecod/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
