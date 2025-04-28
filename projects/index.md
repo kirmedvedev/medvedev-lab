@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Publications
 nav:
   order: 3
   tooltip: Software, datasets, and more
