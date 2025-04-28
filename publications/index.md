@@ -11,7 +11,7 @@ To view a complete list of Dr. Medvedev’s publications, please visit [Google S
 
 {% include section.html %}
 
-## All
+## Selected publications
 
 {% include search-box.html %}
 
