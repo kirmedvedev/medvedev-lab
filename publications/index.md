@@ -2,13 +2,19 @@
 title: Publications
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Publications
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-
-{% include tags.html tags="publication, resource, website" %}
+To view a complete list of Dr. Medvedev’s publications, please visit [Google Scholar](https://scholar.google.com/citations?user=U84xagkAAAAJ)
 
 {% include section.html %}
 
+## All
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" %}
