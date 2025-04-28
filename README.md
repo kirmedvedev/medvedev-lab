@@ -5,6 +5,6 @@
 
   # kirmedvedev's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[kirmedvedev.github.io/medvedev-lab](https://kirmedvedev.github.io/medvedev-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
