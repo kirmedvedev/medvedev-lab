@@ -11,6 +11,8 @@ nav:
 
 {% capture text %}
 
+{% include figure.html image="images/lab_summary.jpg" width="100%" %}
+
 Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets. </br>
 
 1. At the **molecular level**, we focuse on developing tools and databases to classify and analyze protein domain features and their intercations with small molecules and drugs.
@@ -18,14 +20,6 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 3. At the **tissue level** we develope deep learning methods to identify cancer subtypes using tissue histopathology and linking tissue morphology to molecular features to improve diagnosis and treatment selection.
 
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/lab_summary.jpg"  width="100%" %
-  link="publications"
-  title="Our research directions"
-  text=text
-%}
 
 <hr>
 **DrugDomain database and drug discovery** <br>
