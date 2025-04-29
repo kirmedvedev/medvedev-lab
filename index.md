@@ -7,6 +7,8 @@ Medvedev Lab will open in August 2025 in the [Department of Computer Science](ht
 
 ## Highlights
 
+{% include figure.html image="images/lab_summary.jpg" width="100%" %}
+
 {% capture text %}
 
 Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets. 
@@ -25,12 +27,4 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 %}
 
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/lab_summary.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
