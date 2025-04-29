@@ -11,30 +11,33 @@ nav:
 
 {% capture text %}
 
-Our goal is to understand the molecular mechanisms that govern RNA repair and translate this fundamental understanding into new RNA editing tools for applications in science and medicine.<br><br>
-We use CRISPR-guided ribonucleases to study how human cells repair RNA and how RNA viruses co-opt these mechanisms for their own benefit.
+Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets. </br>
+
+At the **molecular level**, we focuse on developing tools and databases to classify and analyze protein domain features and their intercations with small molecules and drugs.
+At the **cellular level**, we focus on analyzing expression profile variations within cancer types to uncover the factors that lead to diverse clinical outcomes.
+At the **tissue level** we develope deep learning methods to identify cancer subtypes using tissue histopathology and linking tissue morphology to molecular features to improve diagnosis and treatment selection.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/rna_editing_rna_repair.png"
+  image="images/logo.png"
   link="publications"
   title="RNA editing & RNA repair"
   text=text
 %}
 
-
-<br>
-The biological importance of RNA repair is often dismissed because of the fast turnaround of RNA in the cell. **Why bother repairing RNA if cells can synthesize it anew?**
-
-We challenge this paradigm and ask:<br>
-•	**Do cells repair broken RNA, how do they do it, and why does it matter?** What are the mechanisms, and what is their biological significance?<br>
-• **Can we co-opt cellular RNA repair to edit information in our genes safely and reversibly?**<br><br>
-
 <hr>
-**Human RNA repair** <br>
-Our understanding of mechanisms that cells use to cope with RNA damage is limited, in part due to the lack of tools to damage RNA without confounding effects on DNA. We have used type III-A CRISPR complexes to make programmable RNA breaks in human transcripts and demonstrated that RNA breaks are repaired in human cells. We leverage this process for programmable RNA excisions to develop applications for treating genetic diseases.
+**DrugDomain datbase** <br>
+DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale.
+
+{%
+  include feature.html
+  image="images/drugdomain_logo_fin.png"
+  link="publications"
+  title="DrugDomain datbase"
+  text=text
+%}
 
 {% include citation.html lookup="Repair of CRISPR-guided RNA breaks enables site-specific RNA excision" style="rich" %}
 
@@ -44,8 +47,6 @@ We have combined sequence-specific RNA cleavage by CRISPR ribonucleases with pro
 
 {% include citation.html lookup="CRISPR-based engineering of RNA viruses" style="rich" %}
 
-
-## <br>
 
 **Mechanisms of viral RNA replication**
 
