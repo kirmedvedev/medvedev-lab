@@ -10,3 +10,27 @@
     - type: website
       link: http://prodata.swmed.edu/DrugDomain/
       
+- id: doi:10.1038/s41598-024-60991-x
+  image: images/6zw9.png
+
+- id: doi:10.1371/journal.pcbi.1011586
+  image: images/ECOD_plos.png
+
+- id: doi:10.1177/2632010X241232302
+  image: images/DL_seminoma.png
+
+- id: doi:10.1038/s41598-023-39273-5
+  image: images/pancancer.png
+
+- id: doi:10.1007/s13205-023-03530-1
+  image: images/microenv.png
+
+- id: doi:10.1177/11769351221132634
+  image: images/subtypes.png
+
+- id: doi:10.1016/j.jmb.2020.166788
+  image: images/ros1.jpg
+
+- id: doi:10.1371/journal.pcbi.1007569
+  image: images/ros2.png
+  
