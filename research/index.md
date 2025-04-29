@@ -21,28 +21,29 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 
 {%
   include feature.html
-  image="images/logo.png"
+  image="images/lab_summary.jpg"
   link="publications"
   title="Our research directions"
   text=text
 %}
 
 <hr>
-**DrugDomain database** <br>
-DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale.
+**DrugDomain database and drug discovery** <br>
+DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale. <br>
+We plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
 
-{% include citation.html lookup="Repair of CRISPR-guided RNA breaks enables site-specific RNA excision" style="rich" %}
+{% include citation.html lookup="DrugDomain: The evolutionary context of drugs and small molecules bound to domains" style="rich" %}
 
 <hr>
-**Recombinant RNA technologies** <br>
-We have combined sequence-specific RNA cleavage by CRISPR ribonucleases with programmable RNA repair to make precise deletions and insertions in RNA. This *in vitro* recombinant RNA technology enables rapid and facile engineering of RNA viruses, and we use this approach to dissect the effect of recurring mutations in viral genomes on viral phenotypes.
+**Identification of cancer subtypes** <br>
+Testicular germ cell tumors (TGCT) are the most prevalent solid malignancy among adolescents and young men, ranking second in terms of the average life years lost per person dying of cancer. We conducted a computational study of all pure seminomas available at The Cancer Genome Atlas. Our work resulted in the discovery of **two subtypes of seminoma** differ in pluripotency stage, activity of double stranded DNA breaks repair mechanisms and rates of loss of heterozygosity. These findings have revealed two previously unknown subtypes of pure seminoma, showcasing their potential clinical relevance.
 
-{% include citation.html lookup="CRISPR-based engineering of RNA viruses" style="rich" %}
+{% include citation.html lookup="Integrated Molecular Analysis Reveals 2 Distinct Subtypes of Pure Seminoma of the Testis" style="rich" %}
+{% include citation.html lookup="Seminoma subtypes differ in the organization and functional state of the immune microenvironment" style="rich" %}
 
+<hr>
+**Digital Pathology**
 
-**Mechanisms of viral RNA replication**
+Because clinical pathologists failed to distinguish seminoma subtypes on immunohistochemical slides, I have developed a deep learning (DL) image classifier for the identification of seminoma subtypes using histopathological slides. The results revealed histopathological differences between the two subtypes of pure seminoma. These findings provide additional confirmation and support the notion that seminoma can be further stratified into distinct subtypes.
 
-The paradigm "*Why repair RNA if you can re-synthesize it?*" does not work in the case of RNA viruses because RNA is all they have. We are interested in mechanisms that RNA viruses have evolved to maintain the integrity of their genomes, counteract innate immunity, and promote viral replication.
-
-
-{% include citation.html lookup="SARS-CoV-2 genomic surveillance identifies naturally occurring truncation of ORF7a that limits immune suppression" style="rich" %}
+{% include citation.html lookup="Deep Learning for Subtypes Identification of Pure Seminoma of the Testis" style="rich" %}
