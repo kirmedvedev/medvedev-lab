@@ -21,7 +21,7 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 
 {%
   include feature.html
-  image="images/lab_summary.jpg"
+  image="images/lab_summary.jpg"  width="100%" %
   link="publications"
   title="Our research directions"
   text=text
@@ -32,7 +32,7 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale. <br>
 We plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
 
-{% include citation.html lookup="DrugDomain: The evolutionary context of drugs and small molecules bound to domains" style="rich" %}
+{% include citation.html lookup="The evolutionary context of drugs and small molecules bound to domains" style="rich" %}
 
 <hr>
 **Identification of cancer subtypes** <br>
