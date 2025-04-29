@@ -28,7 +28,7 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 
 {%
   include feature.html
-  image="images/logo.jpg"
+  image="images/lab_summary.jpg"
   link="research"
   title="Our Research"
   text=text
