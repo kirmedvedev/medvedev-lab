@@ -13,9 +13,9 @@ nav:
 
 Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets. </br>
 
-At the **molecular level**, we focuse on developing tools and databases to classify and analyze protein domain features and their intercations with small molecules and drugs.
-At the **cellular level**, we focus on analyzing expression profile variations within cancer types to uncover the factors that lead to diverse clinical outcomes.
-At the **tissue level** we develope deep learning methods to identify cancer subtypes using tissue histopathology and linking tissue morphology to molecular features to improve diagnosis and treatment selection.
+1. At the **molecular level**, we focuse on developing tools and databases to classify and analyze protein domain features and their intercations with small molecules and drugs.
+2. At the **cellular level**, we focus on analyzing expression profile variations within cancer types to uncover the factors that lead to diverse clinical outcomes.
+3. At the **tissue level** we develope deep learning methods to identify cancer subtypes using tissue histopathology and linking tissue morphology to molecular features to improve diagnosis and treatment selection.
 
 {% endcapture %}
 
@@ -23,21 +23,13 @@ At the **tissue level** we develope deep learning methods to identify cancer sub
   include feature.html
   image="images/logo.png"
   link="publications"
-  title="RNA editing & RNA repair"
+  title="Our research directions"
   text=text
 %}
 
 <hr>
-**DrugDomain datbase** <br>
+**DrugDomain database** <br>
 DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale.
-
-{%
-  include feature.html
-  image="images/drugdomain_logo_fin.png"
-  link="publications"
-  title="DrugDomain datbase"
-  text=text
-%}
 
 {% include citation.html lookup="Repair of CRISPR-guided RNA breaks enables site-specific RNA excision" style="rich" %}
 
