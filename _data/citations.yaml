@@ -38,3 +38,119 @@
     link: http://prodata.swmed.edu/DrugDomain/
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41598-024-60991-x
+  title: Structure classification of the proteins from Salmonella enterica pangenome
+    revealed novel potential pathogenicity islands
+  authors:
+  - Kirill E. Medvedev
+  - Jing Zhang
+  - R. Dustin Schaeffer
+  - Lisa N. Kinch
+  - Qian Cong
+  - Nick V. Grishin
+  publisher: Scientific Reports
+  date: '2024-05-28'
+  link: https://doi.org/gt5tr7
+  image: images/6zw9.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1011586
+  title: ECOD domain classification of 48 whole proteomes from AlphaFold Structure
+    Database using DPAM2
+  authors:
+  - R. Dustin Schaeffer
+  - Jing Zhang
+  - Kirill E. Medvedev
+  - Lisa N. Kinch
+  - Qian Cong
+  - Nick V. Grishin
+  publisher: PLOS Computational Biology
+  date: '2024-02-28'
+  link: https://doi.org/g9gw4h
+  image: images/ECOD_plos.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/2632010X241232302
+  title: Deep Learning for Subtypes Identification of Pure Seminoma of the Testis
+  authors:
+  - Kirill E Medvedev
+  - Paul H Acosta
+  - Liwei Jia
+  - Nick V Grishin
+  publisher: Clinical Pathology
+  date: '2024-01-01'
+  link: https://doi.org/g9g2g2
+  image: images/DL_seminoma.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-39273-5
+  title: Pan-cancer structurome reveals overrepresentation of beta sandwiches and
+    underrepresentation of alpha helical domains
+  authors:
+  - Kirill E. Medvedev
+  - R. Dustin Schaeffer
+  - Kenneth S. Chen
+  - Nick V. Grishin
+  publisher: Scientific Reports
+  date: '2023-07-25'
+  link: https://doi.org/g9g2g3
+  image: images/pancancer.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13205-023-03530-1
+  title: Seminoma subtypes differ in the organization and functional state of the
+    immune microenvironment
+  authors:
+  - Anna V. Savelyeva
+  - Kirill E. Medvedev
+  publisher: 3 Biotech
+  date: '2023-03-01'
+  link: https://doi.org/g9gw4n
+  image: images/microenv.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/11769351221132634
+  title: Integrated Molecular Analysis Reveals 2 Distinct Subtypes of Pure Seminoma
+    of the Testis
+  authors:
+  - Kirill E Medvedev
+  - Anna V Savelyeva
+  - Kenneth S Chen
+  - Aditya Bagrodia
+  - Liwei Jia
+  - Nick V Grishin
+  publisher: Cancer Informatics
+  date: '2022-01-01'
+  link: https://doi.org/g9gw4p
+  image: images/subtypes.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jmb.2020.166788
+  title: 'A Fifth of the Protein World: Rossmann-like Proteins as an Evolutionarily
+    Successful Structural unit'
+  authors:
+  - Kirill E. Medvedev
+  - Lisa N. Kinch
+  - R. Dustin Schaeffer
+  - Jimin Pei
+  - Nick V. Grishin
+  publisher: Journal of Molecular Biology
+  date: '2021-02-01'
+  link: https://doi.org/grbf2w
+  image: images/ros1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1007569
+  title: Functional analysis of Rossmann-like domains reveals convergent evolution
+    of topology and reaction pathways
+  authors:
+  - Kirill E. Medvedev
+  - Lisa N. Kinch
+  - R. Dustin Schaeffer
+  - Nick V. Grishin
+  publisher: PLOS Computational Biology
+  date: '2019-12-23'
+  link: https://doi.org/g9gw4x
+  image: images/ros2.png
+  plugin: sources.py
+  file: sources.yaml
