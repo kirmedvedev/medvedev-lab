@@ -8,11 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-dna" %}Our research
 ## <br>
 
-
-{% capture text %}
-
 {% include figure.html image="images/lab_summary.jpg" width="100%" %}
-
+{% capture text %}
 Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets. </br>
 
 1. At the **molecular level**, we focuse on developing tools and databases to classify and analyze protein domain features and their intercations with small molecules and drugs.
