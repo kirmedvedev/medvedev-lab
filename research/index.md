@@ -10,7 +10,7 @@ nav:
 
 {% include figure.html image="images/lab_summary.jpg" width="100%" %}
 
-Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets. </br>
+Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets.
 
 1. At the **molecular level**, we focuse on developing tools and databases to classify and analyze protein domain features and their intercations with small molecules and drugs.
 2. At the **cellular level**, we focus on analyzing expression profile variations within cancer types to uncover the factors that lead to diverse clinical outcomes.
