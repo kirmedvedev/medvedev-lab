@@ -7,7 +7,7 @@ links:
   home-page: https://medvedev-lab.cs.ucf.edu/
   google-scholar: U84xagkAAAAJ
   twitter: KirillEMedvedev
-  bluesky: kirillemedvedev.bsky.socia
+  bluesky: kirillemedvedev.bsky.social
 ---
 
 Bio...
