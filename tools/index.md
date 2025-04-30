@@ -9,10 +9,6 @@ nav:
 
 Databases and tools developed in our lab
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
 {% include section.html %}
 
 ## Featured
