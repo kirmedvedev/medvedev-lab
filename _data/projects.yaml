@@ -4,19 +4,11 @@
   link: https://medvedev-lab.cs.ucf.edu/DrugDomain/
   description: DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale.
   repo: kirmedvedev/DrugDomain
-  tags:
-    - resource
-    - publication
-    - website
 
 - title: DisEnrich database
   group: featured
   link: http://prodata.swmed.edu/DisEnrichDB/
   description: DisEnrichDB database reports disordered regions in human proteome that are enriched in different combinations of amino acids.
-  tags:
-    - resource
-    - publication
-    - website
 
 - title: identification of seminoma subtypes using H&E slides
   group: featured
@@ -24,7 +16,3 @@
   link: https://github.com/kirmedvedev/seminoma-subtypes
   description: This repository provides pretrained model for identification of pure seminoma subtypes.
   repo: kirmedvedev/seminoma-subtypes
-  tags:
-    - resource
-    - publication
-
