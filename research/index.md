@@ -17,11 +17,21 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 3. At the **tissue level** we develope deep learning methods to identify cancer subtypes using tissue histopathology and linking tissue morphology to molecular features to improve diagnosis and treatment selection.
 
 <hr>
+**Structural Contexts of Post-Translational Modifications in Drug Binding** <br>
+Post-translational modifications (PTMs) play a crucial role in allowing cells to expand the functionality of their proteins and adaptively regulate their signaling pathways. However, the structural aspects of these PTMs on small molecule binding have not been extensively studied. We identified all drug binding-associated PTMs using PDB structures and AlphaFold models. We generated 14,178 models of PTM-modified human proteins with docked ligands. Our results demonstrate that these methods can predict PTM effects on small molecule binding. We also found that phosphorylation of NADPH-Cytochrome P450 Reductase, observed in cervical and lung cancer, causes significant structural disruption in the binding pocket, potentially impairing protein function. All data and generated models are available from DrugDomain database.
+
+<hr>
 **DrugDomain database and drug discovery** <br>
 DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale. <br>
 We plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
 
 {% include citation.html lookup="The evolutionary context of drugs and small molecules bound to domains" style="rich" %}
+
+<hr>
+**Pan-cancer structurome** <br>
+Using AlphaFold protein models, we investigated and described the pan-cancer structurome – all domains of proteins over- and underexpressed in 21 TCGA cancers using AlphaFold models. Our analysis revealed significant overrepresentation of beta sandwich domains due to the high levels of immunoglobulins and underrepresentation of proteins with exclusively alpha helical domains due to their involvement in homeostasis, apoptosis and transmembrane transport.
+
+{% include citation.html lookup="Pan-cancer structurome" style="rich" %}
 
 <hr>
 **Identification of cancer subtypes** <br>
@@ -32,7 +42,6 @@ Testicular germ cell tumors (TGCT) are the most prevalent solid malignancy among
 
 <hr>
 **Digital Pathology**
-
 Because clinical pathologists failed to distinguish seminoma subtypes on immunohistochemical slides, I have developed a deep learning (DL) image classifier for the identification of seminoma subtypes using histopathological slides. The results revealed histopathological differences between the two subtypes of pure seminoma. These findings provide additional confirmation and support the notion that seminoma can be further stratified into distinct subtypes.
 
 {% include citation.html lookup="Deep Learning for Subtypes Identification of Pure Seminoma of the Testis" style="rich" %}
