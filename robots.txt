@@ -1,1 +1,1 @@
-Sitemap: https://kirmedvedev.github.io/medvedev-lab/sitemap.xml
+Sitemap: http://medvedev-lab.cs.ucf.edu/sitemap.xml
