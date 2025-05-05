@@ -20,6 +20,8 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 **Structural Contexts of Post-Translational Modifications in Drug Binding** <br>
 Post-translational modifications (PTMs) play a crucial role in allowing cells to expand the functionality of their proteins and adaptively regulate their signaling pathways. However, the structural aspects of these PTMs on small molecule binding have not been extensively studied. We identified all drug binding-associated PTMs using PDB structures and AlphaFold models. We generated 14,178 models of PTM-modified human proteins with docked ligands. Our results demonstrate that these methods can predict PTM effects on small molecule binding. We also found that phosphorylation of NADPH-Cytochrome P450 Reductase, observed in cervical and lung cancer, causes significant structural disruption in the binding pocket, potentially impairing protein function. All data and generated models are available from DrugDomain database.
 
+{% include citation.html lookup="Leveraging AI to explore structural contexts" style="rich" %}
+
 <hr>
 **DrugDomain database and drug discovery** <br>
 DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale. <br>
