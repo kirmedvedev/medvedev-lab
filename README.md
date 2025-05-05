@@ -3,8 +3,9 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # kirmedvedev's Website
+  # Medvedev Lab website
 
-  Visit **[medvedev-lab.cs.ucf.edu](http://medvedev-lab.cs.ucf.edu)** 🚀
+  Visit **[medvedev-lab.cs.ucf.edu](http://medvedev-lab.cs.ucf.edu)**
 
-  _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+<img width="836" alt="share jgp" src="https://github.com/user-attachments/assets/f192dd3a-cf4b-4315-9b05-26dce04872c2" />
+
