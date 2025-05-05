@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1186/s13321-025-01019-y
+  title: Leveraging AI to explore structural contexts of post-translational modifications
+    in drug binding
+  authors:
+  - Kirill E. Medvedev
+  - R. Dustin Schaeffer
+  - Nick V. Grishin
+  publisher: Journal of Cheminformatics
+  date: '2025-05-04'
+  link: https://doi.org/g9hfb3
+  image: images/PTMs.png
+  buttons:
+  - type: website
+    link: http://drugdomain.cs.ucf.edu/
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/nar/gkae1029
   title: 'ECOD: integrating classifications of protein domains from experimental and
     predicted structures'
@@ -35,7 +51,7 @@
   image: images/drugdomain_logo_fin.png
   buttons:
   - type: website
-    link: http://prodata.swmed.edu/DrugDomain/
+    link: http://drugdomain.cs.ucf.edu/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-024-60991-x
