@@ -1,3 +1,9 @@
+- id: 10.1186/s13321-025-01019-y
+  image: images/PTMs.png
+  buttons:
+    - type: website
+      link: http://drugdomain.cs.ucf.edu/
+
 - id: doi:10.1093/nar/gkae1029
   image: images/ecod2024.jpeg
   buttons:
@@ -8,7 +14,7 @@
   image: images/drugdomain_logo_fin.png
   buttons:
     - type: website
-      link: http://prodata.swmed.edu/DrugDomain/
+      link: http://drugdomain.cs.ucf.edu/
       
 - id: doi:10.1038/s41598-024-60991-x
   image: images/6zw9.png
