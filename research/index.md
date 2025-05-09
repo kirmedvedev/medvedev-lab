@@ -18,26 +18,26 @@ Our research employs a **multiscale approach** to develop and apply methods for 
 
 <hr>
 **Structural Contexts of Post-Translational Modifications in Drug Binding** <br>
-Post-translational modifications (PTMs) play a crucial role in allowing cells to expand the functionality of their proteins and adaptively regulate their signaling pathways. However, the structural aspects of these PTMs on small molecule binding have not been extensively studied. We identified all drug binding-associated PTMs using PDB structures and AlphaFold models. We generated 14,178 models of PTM-modified human proteins with docked ligands. Our results demonstrate that these methods can predict PTM effects on small molecule binding. We also found that phosphorylation of NADPH-Cytochrome P450 Reductase, observed in cervical and lung cancer, causes significant structural disruption in the binding pocket, potentially impairing protein function. All data and generated models are available from DrugDomain database.
+Understanding the role of post-translational modifications in modulating protein function and drug interactions is crucial for advancing drug discovery. To address this, I have developed a first-of-its-kind resource leveraging recent advances in AI-powered protein structure prediction to map thousands of modifications to their drug targets across the human proteome. Our initial investigations reveal significant effects, such as the structural destabilization of a drug-binding site by a cancer-related phosphorylation. All data and generated models are available from DrugDomain database.
 
 {% include citation.html lookup="Leveraging AI to explore structural contexts" style="rich" %}
 
 <hr>
 **DrugDomain database and drug discovery** <br>
 DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale. <br>
-We plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
+I plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
 
 {% include citation.html lookup="The evolutionary context of drugs and small molecules bound to domains" style="rich" %}
 
 <hr>
 **Pan-cancer structurome** <br>
-Using AlphaFold protein models, we investigated and described the pan-cancer structurome – all domains of proteins over- and underexpressed in 21 TCGA cancers using AlphaFold models. Our analysis revealed significant overrepresentation of beta sandwich domains due to the high levels of immunoglobulins and underrepresentation of proteins with exclusively alpha helical domains due to their involvement in homeostasis, apoptosis and transmembrane transport.
+The revolutionary accuracy of AlphaFold has dramatically expanded our knowledge of the pan-cancer structurome. By examining the domain architectures of proteins dysregulated in 21 cancer types, we've uncovered a consistent pattern: an increase in beta sandwich domains, possibly fueled by tumor-related inflammation, and a decrease in alpha helical domains essential for cellular equilibrium. These findings demonstrate how cancer hijacks the protein structural landscape, providing new insights into disease mechanisms and potential therapeutic targets.
 
 {% include citation.html lookup="Pan-cancer structurome" style="rich" %}
 
 <hr>
 **Identification of cancer subtypes** <br>
-Testicular germ cell tumors (TGCT) are the most prevalent solid malignancy among adolescents and young men, ranking second in terms of the average life years lost per person dying of cancer. We conducted a computational study of all pure seminomas available at The Cancer Genome Atlas. Our work resulted in the discovery of **two subtypes of seminoma** differ in pluripotency stage, activity of double stranded DNA breaks repair mechanisms and rates of loss of heterozygosity. These findings have revealed two previously unknown subtypes of pure seminoma, showcasing their potential clinical relevance.
+Testicular germ cell tumors, a leading cancer in young men, present a treatment challenge with heterogeneous responses to platinum therapy. By dissecting the molecular landscape of seminomas, the most common TGCT subtype, I've identified **two distinct subtypes** with differing developmental states and DNA repair mechanisms. Notably, our analysis of the tumor microenvironment reveals that one subtype shows signs of immune cell senescence, offering another potential explanation for immunotherapy resistance and highlighting the need for subtype-specific treatment strategies.
 
 {% include citation.html lookup="Integrated Molecular Analysis Reveals 2 Distinct Subtypes of Pure Seminoma of the Testis" style="rich" %}
 {% include citation.html lookup="Seminoma subtypes differ in the organization and functional state of the immune microenvironment" style="rich" %}
