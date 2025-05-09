@@ -22,7 +22,8 @@ This early fascination with discovery took me to Dallas, Texas, in 2016 to join 
 University of Texas Southwestern Medical Center (Dallas, TX) <br>
 
 In August 2025, Medvedev Lab officially opened at the University of Central Florida. <br>
-<img width="550" alt="ucf" src="https://github.com/user-attachments/assets/8fe12809-ef1c-4629-a1ac-e8b2a14f0b475" /> <br>
-University of Central Florid, Department of Computer Science (Orlando, FL) <br>
+<img width="550" alt="ucf" src="https://github.com/user-attachments/assets/973d91a6-2ae4-4935-9ccd-b3a5f41f746d" /> <br>
+
+University of Central Florida, Department of Computer Science (Orlando, FL) <br>
 
 
