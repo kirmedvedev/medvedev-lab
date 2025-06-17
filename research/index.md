@@ -12,9 +12,9 @@ nav:
 
 Our research employs a **multiscale approach** to develop and apply methods for the classification and analysis of large-scale biomedical datasets.
 
-1. At the **molecular level**, we focuse on developing tools and databases to classify and analyze protein domain features and their intercations with small molecules and drugs.
+1. At the **molecular level**, we focus on developing tools and databases to classify and analyze protein domain features and their interactions with small molecules and drugs.
 2. At the **cellular level**, we focus on analyzing expression profile variations within cancer types to uncover the factors that lead to diverse clinical outcomes.
-3. At the **tissue level** we develope deep learning methods to identify cancer subtypes using tissue histopathology and linking tissue morphology to molecular features to improve diagnosis and treatment selection.
+3. At the **tissue level** we develop deep learning methods to identify cancer subtypes using tissue histopathology and linking tissue morphology to molecular features to improve diagnosis and treatment selection.
 
 <hr>
 **Structural Contexts of Post-Translational Modifications in Drug Binding** <br>
@@ -24,8 +24,7 @@ Understanding the role of post-translational modifications in modulating protein
 
 <hr>
 **DrugDomain database and drug discovery** <br>
-DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale. <br>
-I plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
+DrugDomain database reports domains of proteins that are targets for small molecules and drugs. It includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. We plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
 
 {% include citation.html lookup="The evolutionary context of drugs and small molecules bound to domains" style="rich" %}
 
