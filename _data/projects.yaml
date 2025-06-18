@@ -1,8 +1,8 @@
 - title: DrugDomain database
   group: featured
   image: images/drugdomain_logo_fin.png
-  link: https://medvedev-lab.cs.ucf.edu/DrugDomain/
-  description: DrugDomain database includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. It is the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale.
+  link: https://drugdomain.cs.ucf.edu/
+  description: DrugDomain database reports domains of proteins that are targets for small molecules and drugs. It is also the first recourse in offering structural context for small molecule binding-associated Post-Translational Modifications on a large scale.
   repo: kirmedvedev/DrugDomain
 
 - title: DisEnrich database
