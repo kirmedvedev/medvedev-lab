@@ -7,7 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Medvedev Lab will open in August 2025 in the [Department of Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/).
+Medvedev Lab is located in the [Department of Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/).
+
+4328 Scorpius St, <br>
+L3Harris Corporation Engineering Center (HEC), <br>
+Office 337, <br>
+Orlando, FL 32816 <br>
 
 {%
   include button.html
