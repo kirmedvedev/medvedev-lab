@@ -13,7 +13,7 @@ Research projects include, but are not limited to, protein structure prediction 
 **Requirements:**
 1. BSc or MSc degree (or equivalent) in computer science, computational biology, bioinformatics, molecular biology, biochemistry or a related field.
 2. Interest in solving biological questions using computational approaches
-3. Strong background in computer science or computaitonal biology/chemistry
+3. Strong background in computer science or computational biology/chemistry
 4. Strong Python and R programming skills
 5. Basic web-development skills (HTML/CSS/JavaScript...)
 6. Fluency in English, with excellent written and verbal communication skills
