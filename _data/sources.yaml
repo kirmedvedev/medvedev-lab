@@ -1,3 +1,9 @@
+- id: 10.1016/j.csbj.2025.09.018
+  image: images/drugdomain2.png
+  buttons:
+    - type: website
+      link: http://drugdomain.cs.ucf.edu/
+      
 - id: 10.1186/s13321-025-01019-y
   image: images/PTMs.png
   buttons:
