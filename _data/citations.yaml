@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1016/j.csbj.2025.09.018
+  title: "DrugDomain\u202F2.0: comprehensive database of protein domains-ligands/drugs\
+    \ interactions across the whole Protein Data Bank"
+  authors:
+  - Kirill E. Medvedev
+  - R. Dustin Schaeffer
+  - Nick V. Grishin
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2025-09-01'
+  link: https://doi.org/g93xz3
+  image: images/drugdomain2.png
+  buttons:
+  - type: website
+    link: http://drugdomain.cs.ucf.edu/
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1186/s13321-025-01019-y
   title: Leveraging AI to explore structural contexts of post-translational modifications
     in drug binding
