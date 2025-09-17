@@ -27,7 +27,7 @@ Understanding the role of post-translational modifications in modulating protein
 DrugDomain database reports domains of proteins that are targets for small molecules and drugs. It includes both experimentally determined PDB structures and AlphaFold models enriched with ligands from experimental data. We plan to use DrugDomain database for identification of novel protein targets for **drug repurposing** and off-target interaction effects based on evolutionary classification of protein domains.
 
 {% include citation.html lookup="The evolutionary context of drugs and small molecules bound to domains" style="rich" %}
-{% include citation.html lookup="comprehensive database of protein domains-ligands="rich" %}
+{% include citation.html lookup="comprehensive database of protein domains-ligands/drugs interactions across the whole Protein Data Bank" style="rich" %}
 
 
 <hr>
