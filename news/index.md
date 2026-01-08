@@ -8,6 +8,10 @@ nav:
 # Lab News
 
 <hr>
+<strong>January, 2026</strong> <br>
+Barsha Roy officially joins as the lab's first PhD student!
+
+<hr>
 <strong>November, 2025</strong> <br>
 <strong>Academic Upbringing in Siberia Inspires Computer Science Professor's Career</strong> <br>
 Article text: <a href="https://www.cecs.ucf.edu/academic-upbringing-in-siberia-inspires-kirill-medvedevs-career/">Read full article</a>
@@ -35,3 +39,4 @@ Article text: <a href="https://www.cecs.ucf.edu/academic-upbringing-in-siberia-i
 </div>
 <div style="clear: both;"></div>
 <hr>
+
