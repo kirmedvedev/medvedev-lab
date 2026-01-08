@@ -1,14 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: 10.1016/j.csbj.2025.09.018
-  title: "DrugDomain\u202F2.0: comprehensive database of protein domains-ligands/drugs\
+  title: "DrugDomain\_2.0: Comprehensive database of protein domains-ligands/drugs\
     \ interactions across the whole Protein Data Bank"
   authors:
   - Kirill E. Medvedev
   - R. Dustin Schaeffer
   - Nick V. Grishin
   publisher: Computational and Structural Biotechnology Journal
-  date: '2025-09-01'
+  date: '2025-01-01'
   link: https://doi.org/g93xz3
   image: images/drugdomain2.png
   buttons:
@@ -55,8 +55,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/pro.5116
-  title: '<scp>DrugDomain</scp>: The evolutionary context of drugs and small molecules
-    bound to domains'
+  title: "<scp>DrugDomain</scp>\n                    : The evolutionary context of\
+    \ drugs and small molecules bound to domains"
   authors:
   - Kirill E. Medvedev
   - R. Dustin Schaeffer
