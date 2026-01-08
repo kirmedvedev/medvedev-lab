@@ -10,14 +10,14 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
 {% include section.html %}
 
 {% capture content %}
-
-{% include figure.html image="images/Kirill_Medvedev.jpg" %}
 
 {% endcapture %}
