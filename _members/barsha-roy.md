@@ -1,7 +1,8 @@
 ---
 name: Barsha Roy
 image: images/Barsha_Roy.jpg
-role: phd-student
+role: phd
+search: false
 links:
   email: barsha.roy@ucf.edu
   google-scholar: 2R5Tox0AAAAJ
