@@ -1,7 +1,7 @@
 ---
 name: Kirill Medvedev, PhD
 image: images/Kirill_Medvedev.jpg
-role: principal-investigator
+role: pi
 links:
   email: kirill.medvedev@ucf.edu
   google-scholar: U84xagkAAAAJ
