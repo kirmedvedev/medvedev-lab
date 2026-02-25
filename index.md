@@ -3,7 +3,7 @@
 
 # Welcome to Medvedev Lab
 
-Medvedev Lab has opened doors in August 2025 in the [Department of Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/).
+Medvedev Lab is affiliated with the [Department of Computer Science](https://www.cs.ucf.edu/) and [Genomics and Bioinformatics Cluster](https://www.ucf.edu/research/genomics-bioinformatics/) at the [University of Central Florida](https://www.ucf.edu/).
 
 ## Highlights
 
