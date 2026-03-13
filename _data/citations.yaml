@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1038/s41564-026-02277-8
+  title: Bacterial Schlafen proteins mediate phage defence
+  authors:
+  - Veronica Perez Taboada
+  - Yimo Wu
+  - Riley Cassidy
+  - Kirill E. Medvedev
+  - Luuk Loeff
+  - Anna Nemudraia
+  - Artem Nemudryi
+  publisher: Nature Microbiology
+  date: '2026-03-09'
+  link: https://doi.org/hbsjg9
+  image: images/schlafen.png
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1016/j.csbj.2025.09.018
   title: "DrugDomain\_2.0: Comprehensive database of protein domains-ligands/drugs\
     \ interactions across the whole Protein Data Bank"
