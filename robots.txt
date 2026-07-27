@@ -1,1 +1,1 @@
-Sitemap: http://medvedevlab.org/sitemap.xml
+Sitemap: https://medvedevlab.org/sitemap.xml
