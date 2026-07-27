@@ -5,7 +5,7 @@
 
   # Medvedev Lab website
 
-  Visit **[medvedevlab.org](http://medvedevlab.org)**
+  Visit **[medvedevlab.org](https://medvedevlab.org)**
 
 <img width="836" alt="share jgp" src="https://github.com/user-attachments/assets/f192dd3a-cf4b-4315-9b05-26dce04872c2" />
 
