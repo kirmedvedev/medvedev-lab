@@ -1,1 +1,1 @@
-Sitemap: http://medvedev-lab.cs.ucf.edu/sitemap.xml
+Sitemap: http://medvedevlab.org/sitemap.xml
