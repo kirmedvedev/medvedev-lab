@@ -8,8 +8,12 @@ nav:
 # Lab News
 
 <hr>
+<strong>August, 2026</strong> <br>
+We welcome <a href="https://medvedevlab.org/members/pratham-lotia.html">Pratham Lotia </a> - our new PhD student!
+
+<hr>
 <strong>January, 2026</strong> <br>
-Barsha Roy officially joins as the lab's first PhD student!
+<a href="https://medvedevlab.org/members/barsha-roy.html">Barsha Roy</a> officially joins as the lab's first PhD student!
 
 <hr>
 <strong>November, 2025</strong> <br>
