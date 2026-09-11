@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s10822-026-00936-w
+  title: 'Stable simulations do not guarantee functional engagement: a case study
+    of off-target prediction for Seladelpar and Zanamivir'
+  authors:
+  - Rachel Kemp
+  - Thomas J. Kean
+  - Kirill E. Medvedev
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2026-09-03'
+  link: https://doi.org/hcjc39
+  image: images/PPAR.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1014440
   title: 'Beyond the canonical: The role of post-transcriptional regulation in drug-target
     interaction prediction'
