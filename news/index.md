@@ -6,6 +6,23 @@ nav:
 ---
 
 # Lab News
+<hr>
+<strong>September, 2026</strong> <br>
+In our <a href="https://link.springer.com/article/10.1007/s10822-026-00936-w">new paper</a>  published in Journal of Computer-Aided Molecular Design (JCAMD), we combined ECOD domain classification, AlphaFold3 modeling, and molecular dynamics to predict off-targets for Seladelpar (a PPARδ agonist) and Zanamivir, then took the top predictions to the bench.
+ 
+💡 <strong>AlphaFold3 confidence did not track pose accuracy.</strong> For PPARγ, four of five AF3 models placed Seladelpar ~8 Å from its position in the experimental structure (8HUP). The one model that reproduced the correct binding mode had the lowest AlphaFold3 ranking score - filtering on confidence would have discarded it.
+
+💡 <strong>The protein was right; the ligand was wrong.</strong> Binding sites were reproduced accurately across all six receptors with an experimental complex (Cα RMSD 0.37-2.84 Å), including PPARγ. The error was specific to ligand placement, not to the modelled pocket.
+
+💡 <strong>Not an AlphaFold3-specific problem</strong>. Boltz-2 missed the same PPARγ pose. Both methods reproduced PPARα (8HUN). The difficulty is a property of the target.
+
+💡 <strong>Prediction met reality</strong>. FXR, RARγ and ERRγ ranked closest to the on-target PPARδ control by trajectory features, and none showed functional activity in reporter assays - despite stable simulations and, in some cases, more hydrogen bonds with Seladelpar than the control formed.
+
+💡 <strong>Positive controls exposed the gap</strong>. PPARα and PPARγ, both weakly activated by Seladelpar, ranked further from the control than the receptors that proved inactive.
+ 
+💡 <strong>Where the signal actually was</strong>. Residue-level comparison with agonist-bound structures showed Seladelpar's carboxylate reaching each receptor's own recognition site but completing only part of the canonical contacts - invisible to every global trajectory descriptor we computed.
+
+Huge kudos to our amazing collaborators <strong>Tom Kean</strong> and <strong>Rachel Kemp</strong> from UCF College of Medicine!
 
 <hr>
 <strong>August, 2026</strong> <br>
