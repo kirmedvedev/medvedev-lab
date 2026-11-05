@@ -385,7 +385,7 @@
       <span class="logo">
         
           <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg viewbox="-40 -60 80 100" version="1.1" id="svg5" sodipodi:docname="logo.svg" inkscape:version="1.4 (e7c3feb1, 2024-10-09)" inkscape:export-filename="icon.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" xml:space="preserve" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs id="defs5"><clippath clippathunits="userSpaceOnUse" id="clipPath5"><rect style="fill:#ffff00;stroke-width:3.77953" id="rect6" width="28.840324" height="33.689583" x="-107.12394" y="-19.674591"></rect></clippath></defs><namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="3.6720117" inkscape:cx="14.705835" inkscape:cy="49.291781" inkscape:window-width="1360" inkscape:window-height="829" inkscape:window-x="0" inkscape:window-y="38" inkscape:window-maximized="0" inkscape:current-layer="svg5"></namedview><style id="style1">
+<svg viewbox="-40 -60 80 100" version="1.1" id="svg5" sodipodi:docname="logo.svg" inkscape:version="1.4 (e7c3feb1, 2024-10-09)" inkscape:export-filename="icon.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" xml:space="preserve" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs id="defs5"><clippath clippathunits="userSpaceOnUse" id="clipPath5"><rect style="fill:#ffff00;stroke-width:3.77953" id="rect6" width="28.840324" height="33.689583" x="-107.12394" y="-19.674591"></rect></clippath></defs><sodipodi:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="3.6720117" inkscape:cx="14.705835" inkscape:cy="49.291781" inkscape:window-width="1360" inkscape:window-height="829" inkscape:window-x="0" inkscape:window-y="38" inkscape:window-maximized="0" inkscape:current-layer="svg5"></sodipodi:namedview><style id="style1">
     .bubble {
       animation: float 2s ease-out both infinite var(--delay);
     }
@@ -13118,14 +13118,14 @@ aZtLitOrAAAAAElFTkSuQmCC
       
     
       
-        <a href="/news/" data-tooltip="Lab News">
-          News
+        <a href="/contact/" data-tooltip="Email, address, and location">
+          Contact
         </a>
       
     
       
-        <a href="/contact/" data-tooltip="Email, address, and location">
-          Contact
+        <a href="/news/" data-tooltip="Lab News">
+          News
         </a>
       
     
@@ -13153,7 +13153,9 @@ aZtLitOrAAAAAElFTkSuQmCC
     <h1 id="lab-news">Lab News</h1>
 <hr>
 
-<p><strong>September, 2026</strong> <br>
+<p><strong>September, 2026</strong> <br></p>
+<div class="text-img" style="text-align: left;">
+  <img width="300" src="/images/PPAR.png" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 In our <a href="https://link.springer.com/article/10.1007/s10822-026-00936-w">new paper</a>  published in Journal of Computer-Aided Molecular Design (JCAMD), we combined ECOD domain classification, AlphaFold3 modeling, and molecular dynamics to predict off-targets for Seladelpar (a PPARδ agonist) and Zanamivir, then took the top predictions to the bench.
 <br><br>
 💡 <strong>AlphaFold3 confidence did not track pose accuracy.</strong> For PPARγ, four of five AF3 models placed Seladelpar ~8 Å from its position in the experimental structure (8HUP). The one model that reproduced the correct binding mode had the lowest AlphaFold3 ranking score - filtering on confidence would have discarded it. <br>
@@ -13161,28 +13163,40 @@ In our <a href="https://link.springer.com/article/10.1007/s10822-026-00936-w">ne
 💡 <strong>Not an AlphaFold3-specific problem</strong>. Boltz-2 missed the same PPARγ pose. Both methods reproduced PPARα (8HUN). The difficulty is a property of the target.<br>
 💡 <strong>Prediction met reality</strong>. FXR, RARγ and ERRγ ranked closest to the on-target PPARδ control by trajectory features, and none showed functional activity in reporter assays - despite stable simulations and, in some cases, more hydrogen bonds with Seladelpar than the control formed.<br>
 💡 <strong>Positive controls exposed the gap</strong>. PPARα and PPARγ, both weakly activated by Seladelpar, ranked further from the control than the receptors that proved inactive.<br>
-💡 <strong>Where the signal actually was</strong>. Residue-level comparison with agonist-bound structures showed Seladelpar’s carboxylate reaching each receptor’s own recognition site but completing only part of the canonical contacts - invisible to every global trajectory descriptor we computed.<br></p>
+💡 <strong>Where the signal actually was</strong>. Residue-level comparison with agonist-bound structures showed Seladelpar's carboxylate reaching each receptor's own recognition site but completing only part of the canonical contacts - invisible to every global trajectory descriptor we computed.<br>
 
-<p>Huge kudos to our amazing collaborators <strong>Tom Kean</strong> and <strong>Rachel Kemp</strong> from UCF College of Medicine!</p>
-
-<hr>
-
-<p><strong>August, 2026</strong> <br>
-We welcome <a href="https://medvedevlab.org/members/pratham-lotia.html">Pratham Lotia </a> - our new PhD student!</p>
+Huge kudos to our amazing collaborators <strong>Tom Kean</strong> and <strong>Rachel Kemp</strong> from UCF College of Medicine!
+</div>
 
 <hr>
 
-<p><strong>July, 2026</strong> <br>
+<p><strong>August, 2026</strong> <br></p>
+<div class="text-img" style="text-align: left;">
+  <img width="200" src="/images/Pratham.jpeg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+  <br><br>
+We welcome <a href="https://medvedevlab.org/members/pratham-lotia.html">Pratham Lotia </a> - our new PhD student!
+</div>
+
+<hr>
+
+<p><strong>July, 2026</strong> <br></p>
+<div class="text-img" style="text-align: left;">
+  <img width="300" src="/images/canon.png" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 In our <a href="https://doi.org/10.1371/journal.pcbi.1014440">new paper</a>, in collaboration with the <strong>Wei Zhang</strong> lab, published in PLoS Computational Biology, we systematically investigated protein isoform variation impacts on drug-target interaction predictions. <br><br>
 💡 <strong>Performance Impact:</strong> Substituting canonical sequences with alternative isoforms causes substantial declines in drug-target interaction predictions.<br>
 💡 <strong>Structural Root Cause:</strong> Discrepancies directly correlate with changes in binding-site configurations between isoforms.<br>
 💡 <strong>Sensitivity to Subtle Changes:</strong> Even minor binding-region alterations lead to inconsistent predictions, revealing fragility in current models.<br>
-💡 <strong>Critical Limitation Exposed:</strong> Current modeling frameworks fail to account for the functional diversity of protein isoforms, compromising biological validity and therapeutic relevance.<br></p>
+💡 <strong>Critical Limitation Exposed:</strong> Current modeling frameworks fail to account for the functional diversity of protein isoforms, compromising biological validity and therapeutic relevance.<br>
+</div>
 
 <hr>
 
-<p><strong>January, 2026</strong> <br>
-<a href="https://medvedevlab.org/members/barsha-roy.html">Barsha Roy</a> officially joins as the lab’s first PhD student!</p>
+<p><strong>January, 2026</strong> <br></p>
+<div class="text-img" style="text-align: left;">
+  <img width="200" src="/images/Barsha_Roy.jpg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+  <br><br>
+<a href="https://medvedevlab.org/members/barsha-roy.html">Barsha Roy</a> officially joins as the lab's first PhD student!
+</div>
 
 <hr>
 
