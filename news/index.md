@@ -8,7 +8,31 @@ nav:
 # Lab News
 <hr>
 <strong>November, 2026</strong> <br>
-
+<div class="text-img" style="text-align: left;">
+  <img width="350" src="/images/CAP6938.png" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+The 2024 Nobel Prize in Chemistry went to AI protein structure prediction and design.
+This spring, you'll run the same tools.
+<br><br>
+Course<br>
+<strong>CAP 6938 ST: Computer Science Approaches to Structural Bioinformatics</strong>
+Spring 2027, Department of Computer Science, Class time: Mon, Wed 12:00PM - 1:15PM, Location: ENG2 0103.
+<br><br>
+Computer science meets structural biology. Learn to see the computational problem behind every tool: search, optimization, classification, deep learning, simulation, and use the ones driving modern biology and drug discovery.
+<br><br>
+<strong>What you'll actually do</strong><br>
+- Run the same computational design pipeline behind the 2025 Nature de novo antivenom work, generating and evaluating candidate binders against a snake-venom toxin<br>
+- Predict a protein's 3D structure with AlphaFold and judge when to trust it<br>
+- Dock a drug-like molecule into its target's binding site<br>
+- Run and analyze a molecular dynamics simulation on the HPC cluster<br>
+- Chain it all into the end-to-end pipeline used in current research, where most designs fail, and the skill is reading the metrics that tell you which ones didn't
+<br><br>
+<strong>Who it's for:</strong><br>
+Open to undergraduate (Prerequisite: COP 3503C), master's, and PhD students.<br>
+Computer science students who want a domain for their skills. Life-science students who want real computational training. No biology background is needed. No prior bioinformatics experience is needed.
+<br><br>
+Prerequisite<br>
+Basic Python.<br>
+For undergraduate students - COP 3503C<br>
 
 <hr>
 <strong>September, 2026</strong> <br>
@@ -34,9 +58,6 @@ Huge kudos to our amazing collaborators <strong>Tom Kean</strong> and <strong>Ra
 We welcome <a href="https://medvedevlab.org/members/pratham-lotia.html">Pratham Lotia </a> - our new PhD student!
   <br><br>
   <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
 </div>
 
 <hr>
@@ -56,9 +77,6 @@ In our <a href="https://doi.org/10.1371/journal.pcbi.1014440">new paper</a>, in 
   <img width="200" src="/images/Barsha_Roy.jpg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
   <br><br>
 <a href="https://medvedevlab.org/members/barsha-roy.html">Barsha Roy</a> officially joins as the lab's first PhD student!
-  <br><br>
-  <br><br>
-  <br><br>
   <br><br>
   <br><br>
 </div>
