@@ -8,6 +8,8 @@ nav:
 # Lab News
 <hr>
 <strong>September, 2026</strong> <br>
+<div class="text-img" style="text-align: left;">
+  <img width="300" src="/images/PPAR.png" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 In our <a href="https://link.springer.com/article/10.1007/s10822-026-00936-w">new paper</a>  published in Journal of Computer-Aided Molecular Design (JCAMD), we combined ECOD domain classification, AlphaFold3 modeling, and molecular dynamics to predict off-targets for Seladelpar (a PPARδ agonist) and Zanamivir, then took the top predictions to the bench.
 <br><br>
 💡 <strong>AlphaFold3 confidence did not track pose accuracy.</strong> For PPARγ, four of five AF3 models placed Seladelpar ~8 Å from its position in the experimental structure (8HUP). The one model that reproduced the correct binding mode had the lowest AlphaFold3 ranking score - filtering on confidence would have discarded it. <br>
@@ -18,22 +20,34 @@ In our <a href="https://link.springer.com/article/10.1007/s10822-026-00936-w">ne
 💡 <strong>Where the signal actually was</strong>. Residue-level comparison with agonist-bound structures showed Seladelpar's carboxylate reaching each receptor's own recognition site but completing only part of the canonical contacts - invisible to every global trajectory descriptor we computed.<br>
 
 Huge kudos to our amazing collaborators <strong>Tom Kean</strong> and <strong>Rachel Kemp</strong> from UCF College of Medicine!
+</div>
 
 <hr>
 <strong>August, 2026</strong> <br>
+<div class="text-img" style="text-align: left;">
+  <img width="200" src="/images/Pratham.jpeg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+  <br><br>
 We welcome <a href="https://medvedevlab.org/members/pratham-lotia.html">Pratham Lotia </a> - our new PhD student!
+</div>
 
 <hr>
 <strong>July, 2026</strong> <br>
+<div class="text-img" style="text-align: left;">
+  <img width="300" src="/images/canon.png" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 In our <a href="https://doi.org/10.1371/journal.pcbi.1014440">new paper</a>, in collaboration with the <strong>Wei Zhang</strong> lab, published in PLoS Computational Biology, we systematically investigated protein isoform variation impacts on drug-target interaction predictions. <br><br>
 💡 <strong>Performance Impact:</strong> Substituting canonical sequences with alternative isoforms causes substantial declines in drug-target interaction predictions.<br>
 💡 <strong>Structural Root Cause:</strong> Discrepancies directly correlate with changes in binding-site configurations between isoforms.<br>
 💡 <strong>Sensitivity to Subtle Changes:</strong> Even minor binding-region alterations lead to inconsistent predictions, revealing fragility in current models.<br>
 💡 <strong>Critical Limitation Exposed:</strong> Current modeling frameworks fail to account for the functional diversity of protein isoforms, compromising biological validity and therapeutic relevance.<br>
+</div>
 
 <hr>
 <strong>January, 2026</strong> <br>
+<div class="text-img" style="text-align: left;">
+  <img width="200" src="/images/Barsha_Roy.jpg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+  <br><br>
 <a href="https://medvedevlab.org/members/barsha-roy.html">Barsha Roy</a> officially joins as the lab's first PhD student!
+</div>
 
 <hr>
 <strong>November, 2025</strong> <br>
