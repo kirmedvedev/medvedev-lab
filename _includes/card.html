@@ -39,9 +39,5 @@
         {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
       </p>
     {% endif %}
-
-    {% if include.tags or include.repo %}
-      {% include tags.html tags=include.tags repo=include.repo %}
-    {% endif %}
   </div>
 </div>
