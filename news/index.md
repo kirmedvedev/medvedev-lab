@@ -8,6 +8,7 @@ nav:
 # Lab News
 <hr>
 <strong>November, 2026</strong> <br>
+<strong>New course announcement</strong><br>
 <div class="text-img" style="text-align: left;">
   <img width="350" src="/images/CAP6938.png" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 The 2024 Nobel Prize in Chemistry went to AI protein structure prediction and design.
@@ -58,6 +59,7 @@ Huge kudos to our amazing collaborators <strong>Tom Kean</strong> and <strong>Ra
 We welcome <a href="https://medvedevlab.org/members/pratham-lotia.html">Pratham Lotia </a> - our new PhD student!
   <br><br>
   <br><br>
+  <br><br>
 </div>
 
 <hr>
@@ -77,6 +79,7 @@ In our <a href="https://doi.org/10.1371/journal.pcbi.1014440">new paper</a>, in 
   <img width="200" src="/images/Barsha_Roy.jpg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
   <br><br>
 <a href="https://medvedevlab.org/members/barsha-roy.html">Barsha Roy</a> officially joins as the lab's first PhD student!
+  <br><br>
   <br><br>
   <br><br>
 </div>
